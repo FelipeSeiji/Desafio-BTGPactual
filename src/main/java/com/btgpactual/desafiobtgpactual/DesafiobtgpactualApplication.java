@@ -8,7 +8,6 @@ public class DesafiobtgpactualApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DesafiobtgpactualApplication.class, args);
-		System.out.println("Desafio BTGP Actual");
 	}
 
 }
